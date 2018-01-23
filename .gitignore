@@ -1,0 +1,7 @@
+financas/bin
+.metadata
+.recommenders
+.settings
+
+*.class
+
